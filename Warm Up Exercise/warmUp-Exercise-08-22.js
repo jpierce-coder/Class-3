@@ -7,3 +7,13 @@ function isInteger(num) {
 };
 
 isInteger(23.4);
+
+
+
+// Below is a return function
+
+function calcArea(width, height) {
+    let result = width * height;
+
+    return result;
+};
